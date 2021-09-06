@@ -6,5 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lucas Melo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.131.3"
+  }
 }
